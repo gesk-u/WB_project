@@ -26,22 +26,22 @@ Tasks were split at the start of the sprint between all members, so that we coul
 ## Alignment with Sprint 1 Prototype
 
 The original plan was to have 3 pages as follows:
-    1. Search page 1- the starting page to search the word;
-    2. Result page 2 - to see videos where searched word is pronounced;
-    3. AI page 3 - with AI-generated sentences using the searched word; the sentences can also be voiced by AI.
+- Search page 1- the starting page to search the word;
+- Result page 2 - to see videos where searched word is pronounced;
+- AI page 3 - with AI-generated sentences using the searched word; the sentences can also be voiced by AI.
 
 
 **The final version of application vs planned prototype:**
 
 **What stayed the same:**
-    - All planned functionality was implemented.
-    - Page 1 and 2 were done quite close to prototype.
+- All planned functionality was implemented.
+- Page 1 and 2 were done quite close to prototype.
 
 **What ended up different:** 
-    - The general design was done in the same style, but in prototype it was rather simplified, so in final result the design has more elements and also some animation.
-    - The functionality of the 3rd page (AI-generated sentences that can be voiced by AI), was moved into the second page, so the search results show on the same page videos and generated sentences. Word searchbox was also added into the result page, so user doesn't have to go back to the starting page and can continue search immediately.
-    - We added a feature to save favorite words/videos, so now the 3rd page shows the list of saved videos/words to revisit it again.
-    - Authentication was added: sign up and login pages were created where user can register itself.
+- The general design was done in the same style, but in prototype it was rather simplified, so in final result the design has more elements and also some animation.
+- The functionality of the 3rd page (AI-generated sentences that can be voiced by AI), was moved into the second page, so the search results show on the same page videos and generated sentences. Word searchbox was also added into the result page, so user doesn't have to go back to the starting page and can continue search immediately.
+- We added a feature to save favorite words/videos, so now the 3rd page shows the list of saved videos/words to revisit it again.
+- Authentication was added: sign up and login pages were created where user can register itself.
 
 **Summary:** Our final page structure and design were following the original prototype style and functionality, however we managed to add more additional features, so our website can offer more to the user. The main changes were structuring some pages different and improving the design.
 
