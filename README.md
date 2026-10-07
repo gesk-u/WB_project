@@ -2,7 +2,7 @@
 
 This directory contains the Sprint 3 planning, implementation artifacts and deliverables for Sanahaku, a web platform built to help language learners hear natural, conversational Finnish pronunciation in timestamped YouTube videos.
 
-## Sprint 3 Overview    ADD ME TO SCRUM REPO, DONT FORGET ITS SEPARATE REPO
+## Sprint 3 Overview 
 
 **Sprint 3 Goals:** connecting backend and frontend into fully integrated application, adding AI features into our project, implementing authentication, writing tests, fixing final bugs and improving general functionality and design. At the very end, to make documentation and deployment.
 
